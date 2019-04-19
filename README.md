@@ -63,7 +63,7 @@ python3 tensorflow/test_speed.py scale|res|se|next
 
 All networks were tested using Tensorflow with GTX 1060 GPU and i7 CPU at batch size 16 and image side 224 on 1000 runs.
 
-Some Static graph frameworks like Tensorflow and TensorRT execute multi-branch parallel, while Pytorch and Caffe are not. So we suggest deploy ScaleNets on Tensorflow and TensorRT.
+Some static graph frameworks like Tensorflow and TensorRT execute multi-branch parallel, while Pytorch and Caffe are not. So we suggest to deploy ScaleNets on Tensorflow and TensorRT.
 
 ## Trained models
 | Model | Top-1 err. | Top-5 err. |
