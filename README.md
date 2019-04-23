@@ -1,5 +1,5 @@
 # ScaleNet
-This is a PyTorch implementation of [Data-Driven Neuron Allocation for Scale Aggregation Networks](https://arxiv.org/).(CVPR2019) with pretrained models.
+This is a PyTorch implementation of [Data-Driven Neuron Allocation for Scale Aggregation Networks](https://arxiv.org/pdf/1904.09460.pdf).(CVPR2019) with pretrained models.
 Additionally, a TensorFlow vision is offered for speed test.
 
 ## Approach
